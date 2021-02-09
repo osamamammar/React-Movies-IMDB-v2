@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React-Movies v2
+
+### HomePage:
+
+![HomePage|512x397,20%](./public/HomePage.png)
+
+---
+
+### MoviePage:
+
+![MoviePage|512x397,20%](./public/MoviePage.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
